@@ -192,3 +192,26 @@
 .para_7{
     margin-top:100px;
 }
+/* Advance security section ends  */
+@media (max-width: 768px) {
+    .btn_2 {
+        max-width: 100%;
+        width: auto;
+    }
+    .banner-content {
+        text-align: center;
+    }
+    .btn-demo {
+        width: 100%;
+    }
+    .about_main, .adv_main {
+        flex-direction: column;
+        text-align: center;
+    }
+    .right_about, .left_about {
+        width: 100%;
+    }
+    .img_1 {
+        margin-bottom: 20px;
+    }
+}
