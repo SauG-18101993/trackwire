@@ -179,15 +179,16 @@
 .img_16{
     width:785px;
     height:681px;
-    margin-top:903px;
+    margin-top:900px;
 }
 .head_13{
-    margin-left:-382px;
-    margin-top:25px;
+    margin-left:-385px;
+    padding-top:25px;
+    margin-top:100px;
 }
 .head_12{
     margin-left:100px;
-    margin-top:50px;
+    margin-top:100px;
 }
 .para_7{
     margin-top:100px;
@@ -214,4 +215,13 @@
     .img_1 {
         margin-bottom: 20px;
     }
+}
+/* Super charge section starts */
+.img_17{
+    width:1140px;
+    height:650px;
+    
+}
+.sec_10{
+    margin-top:100px;
 }
